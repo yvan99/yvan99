@@ -5,6 +5,9 @@ I'm a passionate full stack web developer ,living in Kigali Rwanda , wrote my fi
 #### Programming languages
 PHP,JAVASCRIPT,C++
 
+#### Other web technologies
+HTML ,CSS,SASS,BOOTSTRAP
+
 #### Web applications frameworks
 
 EXPRESS,LARAVEL
@@ -16,6 +19,8 @@ MYSQL
 #### What I'm currently learning 📚
 
 - React.js
+- Node js
+- Laravel
 - React Native
 - Apps prototyping with FIGMA,ADOBE XD
 - Mobile apps programming with JAVA,API
