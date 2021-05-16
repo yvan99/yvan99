@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there , Im ISHIMWE Ivan 👋
 
-<!--
-**yvan99/yvan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full stack web developer ,living in Kigali Rwanda , wrote my first code in 2015 'hello world of course' 😄 and from then i'm still commited to learning new things
 
-Here are some ideas to get you started:
+#### Programming languages
+PHP,JAVASCRIPT,C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Web applications frameworks
+
+EXPRESS,LARAVEL
+
+#### Database
+
+MYSQL
+
+#### What I'm currently learning 📚
+
+- React.js
+- React Native
+- Apps prototyping with FIGMA,ADOBE XD
+- Mobile apps programming with JAVA,API
+- API INTEGRATIONS
+
+#### My Github statistics ⚡
+[![My github stats](https://github-readme-stats.vercel.app/api?username=yvan99)](https://github.com/anuraghazra/github-readme-stats)
