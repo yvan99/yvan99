@@ -27,4 +27,5 @@ MYSQL
 - API INTEGRATIONS
 
 #### My Github statistics ⚡
-[![My github stats](https://github-readme-stats.vercel.app/api?username=yvan99)](https://github.com/anuraghazra/github-readme-stats)
+![MY GITHUB STATS](https://github-readme-stats.vercel.app/api?username=yvan99&show_icons=true&theme=radical)
+
