@@ -2,28 +2,23 @@
 
 I'm a passionate full stack web developer ,living in Kigali Rwanda , wrote my first code in 2015 'hello world of course' 😄 and from then i'm still commited to learning new things
 
-#### Programming languages
-PHP,JAVASCRIPT,C++
+#### UI/UX stacks
+- HTML ,CSS,SASS,BOOTSTRAP,Tailwind
+- Apps prototyping with FIGMA,ADOBE XD
+- REACT JS
 
-#### Other web technologies
-HTML ,CSS,SASS,BOOTSTRAP
-
-#### Web applications frameworks
-
-EXPRESS,LARAVEL
-
+#### Back-end stacks
+- PHP
 #### Database
 
 MYSQL
 
 #### What I'm currently learning 📚
-
-- React.js
+- REDUX
 - Node js
 - Laravel
 - React Native
-- Apps prototyping with FIGMA,ADOBE XD
-- Mobile apps programming with JAVA,API
+- USSD
 - API INTEGRATIONS
 
 #### My Github statistics ⚡
