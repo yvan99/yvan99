@@ -21,6 +21,3 @@ MYSQL
 - USSD
 - API INTEGRATIONS
 
-#### My Github statistics ⚡
-![MY GITHUB STATS](https://github-readme-stats.vercel.app/api?username=yvan99&show_icons=true&theme=radical)
-
