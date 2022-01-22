@@ -15,6 +15,8 @@ MYSQL
 
 #### What I'm currently learning 📚
 - REDUX
+- NEXT JS
+- PRISMA
 - Node js
 - Laravel
 - React Native
