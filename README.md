@@ -17,6 +17,7 @@ MYSQL
 - REDUX
 - NEXT JS
 - PRISMA
+- TYPESCRIPT
 - Node js
 - Laravel
 - React Native
