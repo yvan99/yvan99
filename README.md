@@ -8,7 +8,8 @@ I'm a passionate full stack web developer ,living in Kigali Rwanda , wrote my fi
 - REACT JS
 
 #### Back-end stacks
-- PHP
+- Vanilla PHP
+- Laravel
 #### Database
 
 MYSQL
@@ -19,7 +20,6 @@ MYSQL
 - PRISMA
 - TYPESCRIPT
 - Node js
-- Laravel
 - React Native
 - USSD
 - API INTEGRATIONS
