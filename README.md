@@ -3,23 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yvan99&label=Profile%20views&color=0e75b6&style=flat" alt="yvan99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yvan99" alt="yvan99" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ishimwe_yvan" target="blank"><img src="https://img.shields.io/twitter/follow/ishimwe_yvan?logo=twitter&style=for-the-badge" alt="ishimwe_yvan" /></a> </p>
 
 - 🔭 I’m currently working on [smart emate education saas](https://emate.rw/)
+
+- 🌱 I’m currently learning **REDUX,NEXT JS ,PRISMA ,TYPESCRIPT, Node js, React Native, USSD ,API INTEGRATIONS**
 
 - 👨‍💻 All of my projects are available at [http://yvandev.herokuapp.com/](http://yvandev.herokuapp.com/)
 
 - 📝 I regularly write articles on [https://dev.to/yvan99](https://dev.to/yvan99)
 
-- 💬 Ask me about **REDUX,NEXT JS ,PRISMA ,TYPESCRIPT, Node js, React Native, USSD ,API INTEGRATIONS**
-
 - 📫 How to reach me **ishimweyvan90@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1W4Op40HePgmYPzNpOmi3lphILXfDVaBI/view?usp=sharing](https://drive.google.com/file/d/1W4Op40HePgmYPzNpOmi3lphILXfDVaBI/view?usp=sharing)
 
-- ⚡ Fun fact **I think CSS is a programming language**
+- ⚡ Fun fact **I think CSS is a programming language 😄**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
