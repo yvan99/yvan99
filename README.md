@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **REDUX,NEXT JS ,PRISMA ,TYPESCRIPT, Node js, React Native, USSD ,API INTEGRATIONS**
 
-- 👨‍💻 All of my projects are available at [http://yvandev.herokuapp.com/](http://yvandev.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [http://yvandev.herokuapp.com/](http://yvandev.herokuapp.com/
 
 - 📝 I regularly write articles on [https://dev.to/yvan99](https://dev.to/yvan99)
 
