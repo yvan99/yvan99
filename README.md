@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [http://yvandev.herokuapp.com/](http://yvandev.herokuapp.com/
 
-- 📝 I regularly write articles on [https://dev.to/yvan99](https://dev.to/yvan99)
+- 📝 I regularly write articles on [https://dev.to/yvan99](https://dev.to/yvan99)]
 
 - 📫 How to reach me **ishimweyvan90@gmail.com**
 
