@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/ishimwe_yvan" target="blank"><img src="https://img.shields.io/twitter/follow/ishimwe_yvan?logo=twitter&style=for-the-badge" alt="ishimwe_yvan" /></a> </p>
 
-- 🔭 I’m currently working on [ZIRAMBA](https://ziramba.com/)
+- 🔭 I’m currently working at [ZIRAMBA](https://ziramba.com/)
 
-- 🌱 I’m currently learning **REDUX,NEXT JS ,PRISMA ,TYPESCRIPT, Node js, React Native, USSD ,API INTEGRATIONS**
+- 🌱 I’m currently learning **REDUX,NEXT JS ,PRISMA ,TYPESCRIPT, Node js, React Native, USSD **
 
 - 👨‍💻 All of my projects are available at http://yvandev.herokuapp.com/
 
