@@ -58,16 +58,12 @@
 
 # 🔭Activities
 
-<div align="center">
+<div align="left">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
 
-<div align="center">
+<div align="left">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=yvan99&theme=github"/>
-</div>
-
-<div align="center">
-    <img height="300px" src="https://metrics.lecoq.io/holic-x?template=classic&config.timezone=Asia%2FShanghai"/>
 </div>
 
 
