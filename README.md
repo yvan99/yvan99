@@ -55,3 +55,19 @@
      <img alt="Css" src="https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql" />
       <img alt="Css" src="https://img.shields.io/badge/-php-green?style=flat-circle&logo=php" />
 </p>
+
+# 🔭Activities
+
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+</div>
+
+<div align="center">
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=yvan99&theme=github"/>
+</div>
+
+<div align="center">
+    <img height="300px" src="https://metrics.lecoq.io/holic-x?template=classic&config.timezone=Asia%2FShanghai"/>
+</div>
+
+
