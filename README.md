@@ -7,33 +7,25 @@
 
 - 🖥️ I’m currently working at [ZIRAMBA](https://ziramba.com/)
 
-- 🌱 I’m currently learning **REDUX,NEXT JS ,PRISMA ,TYPESCRIPT, Node js, React Native, USSD **
-
 - 👨‍💻 All of my projects are available at http://yvandev.herokuapp.com/
 
 - 📝 I regularly write articles on https://dev.to/yvan99
-
-- 📫 How to reach me **ishimweyvan90@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1W4Op40HePgmYPzNpOmi3lphILXfDVaBI/view?usp=sharing](https://drive.google.com/file/d/1W4Op40HePgmYPzNpOmi3lphILXfDVaBI/view?usp=sharing)
 
 - ⚡ Fun fact **I think CSS is a programming language 😄**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<h3> Connect With Me </h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/yvan99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/yvan99" height="30" width="40" /></a>
-<a href="https://twitter.com/ishimwe_yvan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishimwe_yvan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ishimwe-yvan-21a202194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishimwe-yvan-21a202194" height="30" width="40" /></a>
-<a href="https://instagram.com/ishimwe.yvan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishimwe.yvan" height="30" width="40" /></a>
-<a href="https://hashnode.com/@ivan99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ivan99" height="30" width="40" /></a>
-</p>
+  <a href="mailto:ishimweyvan90@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://instagram.com/ishimwe.yvan"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ishimwe-yvan-21a202194/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/ishimwe_yvan"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
 <h3>Things I code with</h3>
 <p>
+	<img alt="Css" src="https://img.shields.io/badge/-php-green?style=flat-circle&logo=php" />
+	 <img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
@@ -53,7 +45,7 @@
    <img alt="Css" src="https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown" />
     <img alt="Css" src="https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux" />
      <img alt="Css" src="https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql" />
-      <img alt="Css" src="https://img.shields.io/badge/-php-green?style=flat-circle&logo=php" />
+ 
 </p>
 
 # 🔭Activities
