@@ -54,8 +54,5 @@
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
 
-<div align="left">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=yvan99&theme=github"/>
-</div>
 
 
