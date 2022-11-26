@@ -51,7 +51,7 @@
 # 🔭Activities
 
 <div align="left">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+	<img src="https://cdn.jsdelivr.net/gh/yvan99/yvan99/assets/github-contribution-grid-snake.svg" />
 </div>
 
 
