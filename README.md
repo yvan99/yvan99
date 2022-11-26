@@ -48,11 +48,5 @@
  
 </p>
 
-# 🔭Activities
-
-<div align="left">
-	<img src="https://cdn.jsdelivr.net/gh/yvan99/yvan99/assets/github-contribution-grid-snake.svg" />
-</div>
-
 
 
