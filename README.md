@@ -6,10 +6,9 @@
 <p align="left"> <a href="https://twitter.com/ishimwe_yvan" target="blank"><img src="https://img.shields.io/twitter/follow/ishimwe_yvan?logo=twitter&style=for-the-badge" alt="ishimwe_yvan" /></a> </p>
 
 - 🖥️ I’m currently working at [ZIRAMBA](https://ziramba.com/)
+- 📝 Read my Blogs at https://dev.to/yvan99
 
-- 👨‍💻 All of my projects are available at http://yvandev.herokuapp.com/
-
-- 📝 I regularly write articles on https://dev.to/yvan99
+- 👨‍💻 All of my projects are available at http://yvandev.herokuapp.com/ , Of course heroku shut us down , I'm looking for another alternative . Will launch it soon !
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1W4Op40HePgmYPzNpOmi3lphILXfDVaBI/view?usp=sharing](https://drive.google.com/file/d/1W4Op40HePgmYPzNpOmi3lphILXfDVaBI/view?usp=sharing)
 
