@@ -8,7 +8,7 @@
 - 🖥️ I’m currently working at [ZIRAMBA](https://ziramba.com/)
 - 📝 Read my Blogs at https://dev.to/yvan99
 
-- 👨‍💻 All of my projects are available at http://yvandev.herokuapp.com/ , Of course heroku shut us down , I'm looking for another alternative . Will launch it soon !
+- 👨‍💻 I'm cooking something for my portfolio web . will launch it soon !
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1W4Op40HePgmYPzNpOmi3lphILXfDVaBI/view?usp=sharing](https://drive.google.com/file/d/1W4Op40HePgmYPzNpOmi3lphILXfDVaBI/view?usp=sharing)
 
