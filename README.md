@@ -18,7 +18,7 @@
 
  <p align="left">
   <a href="https://anuphaldar.com">
-    <img src="https://skillicons.dev/icons?i=js,css,sass,react,redux,nodejs,mongodb,git,vscode,androidstudio,babel,bash,bootstrap,codepen,css,devto,discord,django,express,gatsby,git,github,gitlab,heroku,html5,laravel,md,materialui,mysql,netlify,nextjs,php,postman,prisma,pug,py,sentry,tailwind,vercel,figma,xd" />
+    <img src="https://skillicons.dev/icons?i=js,php,laravel,py,nodejs,express,django,gatsby,nextjs,react,redux,materialui,pug,css,sass,bootstrap,tailwind,postman,prisma,mongodb,mysql,postgres,git,github,gitlab,bash,sentry,heroku,netlify,vercel,,md,figma,xd,vscode,androidstudio,codepen,devto,discord" />
   </a>
 </p>
 
