@@ -16,9 +16,11 @@
 
 <h3>Tools And Technologies i use </h3>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=all&theme=dark">
-</div>
+ <p align="left">
+  <a href="https://anuphaldar.com">
+    <img src="https://skillicons.dev/icons?i=js,css,sass,react,redux,nodejs,mongodb,git,vscode,androidstudio,babel,bash,bootstrap,codepen,css,devto,discord,django,express,gatsby,git,github,gitlab,heroku,html5,laravel,md,materialui,mysql,netlify,nextjs,php,postman,prisma,pug,py,sentry,tailwind,vercel,figma,xd" />
+  </a>
+</p>
 
 <div align="left">
   <img
