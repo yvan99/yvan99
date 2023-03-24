@@ -23,13 +23,11 @@
   <img
     alt="abhinit21" height="165em"
     src="https://github-readme-stats.vercel.app/api?username=yvan99&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" />
-</div>
-
-<div align="center">
   <img
     alt="yvan99" height="165em"
     src="https://github-readme-streak-stats.herokuapp.com/?user=yvan99&theme=onedark&hide_border=false" />
 </div>
+
 
 <div>
   <img
