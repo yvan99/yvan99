@@ -1,6 +1,4 @@
 ![technology-binary-number-programming-wallpaper-1600x480_68](https://res.cloudinary.com/dwi25zun8/image/upload/v1679666645/ISHIMWE-Ivan_zpzhl9.png)
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm ISHIMWE Yvan.</h1>
-<p align="left"> <a href="https://twitter.com/ishimwe_yvan" target="blank"><img src="https://img.shields.io/twitter/follow/ishimwe_yvan?logo=twitter&style=for-the-badge" alt="ishimwe_yvan" /></a> </p>
 
 - 🖥️ I’m currently working at [ZIRAMBA](https://ziramba.com/)
 - 👨‍💻 Check out My [PORTFOLIO WEBSITE](http://ishimweyvan.great-site.net/)
