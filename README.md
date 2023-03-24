@@ -16,6 +16,10 @@
 
 <h3>Tools And Technologies i use </h3>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=all&theme=dark">
+</div>
+
 <div align="left">
   <img
     alt="yvan99"
