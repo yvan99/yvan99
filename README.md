@@ -1,41 +1,45 @@
 ![technology-binary-number-programming-wallpaper-1600x480_68](https://res.cloudinary.com/dwi25zun8/image/upload/v1679666645/ISHIMWE-Ivan_zpzhl9.png)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm ISHIMWE Yvan.</h1>
-<h3 align="center">Just a tech.</h3>
+<p align="left"> <a href="https://twitter.com/ishimwe_yvan" target="blank"><img src="https://img.shields.io/twitter/follow/ishimwe_yvan?logo=twitter&style=for-the-badge" alt="ishimwe_yvan" /></a> </p>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackdagger007&label=Profile%20views&color=0e75b6&style=flat" alt="blackdagger007" /> </p>
+- 🖥️ I’m currently working at [ZIRAMBA](https://ziramba.com/)
+- 📝 Read my Blogs at https://dev.to/yvan99
+
+- 👨‍💻 I'm cooking something for my portfolio web . will launch it soon !
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1W4Op40HePgmYPzNpOmi3lphILXfDVaBI/view?usp=sharing](https://drive.google.com/file/d/1W4Op40HePgmYPzNpOmi3lphILXfDVaBI/view?usp=sharing)
+
+- ⚡ Fun fact **I think CSS is a programming language 😄**
+
+<h3> Connect With Me </h3>
+
+  <a href="mailto:ishimweyvan90@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://instagram.com/ishimwe.yvan"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ishimwe-yvan-21a202194/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/ishimwe_yvan"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+
+<h3>Things I code with</h3>
+<p>
+	<img alt="Css" src="https://img.shields.io/badge/-php-green?style=flat-circle&logo=php" />
+	 <img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Css" src="https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3" />
+   <img alt="Css" src="https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown" />
+    <img alt="Css" src="https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux" />
+     <img alt="Css" src="https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql" />
  
-<div style="display:flex">
-  <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
-  </p>
-
-- 🔭 I’m currently working on [foodie](https://github.com/BlackDagger007/foodie)
-
-- 🌱 I’m currently learning **Angular**
-
-- 👯 I’m looking to collaborate on **Flutter projects**
-
-- 💬 Ask me about **flutter, firebase, nodejs**
-
-- 📫 How to reach me **mailwahab247@gmail.com**
-
-- 🐍 `print(random.choice(dev_quote))`
-</div>
-
-
-
-<h2 align="center">Languages and Tools:</h2>
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=androidstudio,angular,arduino,blender,bootstrap,css,dart,discord,django,express,figma,firebase,flask,flutter,git,github,gitlab,heroku,html,java,js,linux,mongodb,mysql,nodejs,ps,py,selenium,ts,vscode&perline=10">
 </p>
-
-
-<h2 align="center">GitHub Stats:</h3>
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=BlackDagger007&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="BlackDagger007" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=BlackDagger007&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="BlackDagger007" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackDagger007&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
-
-</div>
