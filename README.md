@@ -16,7 +16,7 @@
 
 <h3>Tools And Technologies i use </h3>
 
-<div align="center">
+<div align="left">
   <img
     alt="yvan99"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvan99&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
