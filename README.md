@@ -1,7 +1,7 @@
 ![technology-binary-number-programming-wallpaper-1600x480_68](https://res.cloudinary.com/dwi25zun8/image/upload/v1679666645/ISHIMWE-Ivan_zpzhl9.png)
 
 - 🖥️ I’m currently working at [ZIRAMBA](https://ziramba.com/)
-- 👨‍💻 Check out My [PORTFOLIO WEBSITE](http://ishimweyvan.great-site.net/)
+- 👨‍💻 Check out My [PORTFOLIO WEBSITE](https://ivan.fly.dev/)
 - 📝 Read my Blogs at https://dev.to/yvan99
 - ⚡ Fun fact **I think CSS is a programming language 😄**
 
