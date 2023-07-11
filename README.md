@@ -20,12 +20,4 @@
   </a>
 </p>
 
-<div align="left">
-  <img
-    alt="yvan99"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvan99&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  <img
-    alt="abhinit21" height="165em"
-    src="https://github-readme-stats.vercel.app/api?username=yvan99&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" />
-</div>
 
