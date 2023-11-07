@@ -1,6 +1,5 @@
 <h2> Hello Word 👋 , I'm Ishimwe Yvan </h2>
 
-- 🖥️ I’m currently working at [ZIRAMBA](https://ziramba.com/)
 - 👨‍💻 Check out My [PORTFOLIO WEBSITE](https://ivan.fly.dev/)
 - 📝 Read my Blogs at https://dev.to/yvan99
 - ⚡ Fun fact **I think CSS is a programming language 😄**
