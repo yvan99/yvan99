@@ -2,7 +2,7 @@
 
 - 👨‍💻 Check out My [PORTFOLIO WEBSITE](https://ivan.fly.dev/)
 - 📝 Read my Blogs at https://dev.to/yvan99
-- ⚡ Fun fact **I think CSS is a programming language 😄**
+- ⚡ Fun fact **Most of the time when Im coding i dont actually know what the actual F* Im doing **
 
 <h3> Connect With Me </h3>
 
